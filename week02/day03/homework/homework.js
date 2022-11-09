@@ -1,4 +1,4 @@
-//  Homework week 01 / day 03 
+//  Homework week 02 / day 03 
 //  Andika Yopi Prihartomo
 
 const arrayOfWords = ['cucumber', 'tomatos', 'avocado'];
