@@ -4,7 +4,7 @@
 const arrayOfWords = ['cucumber', 'tomatos', 'avocado'];
 const complicatedArray = ['cucumber', 44, true];
 
-const delay = 1000
+const delay = 5000
 
 const makeAllCaps = (arrayOfWords) => {
   return new Promise((resolve, reject) => {
